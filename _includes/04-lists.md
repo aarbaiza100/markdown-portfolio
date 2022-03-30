@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Favorite Foods 
+1. Pizza
+2. Wings
+3. Steak
+4. Tacos
